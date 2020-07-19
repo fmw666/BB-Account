@@ -10,4 +10,5 @@
 	
 + **apk 下载**
 
-	[点击下载](/README/BB 账本.apk)
+	[点击下载](/README/BB%20账本.apk)
+	
