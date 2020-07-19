@@ -2,11 +2,11 @@
 
 + **演示视频1：**
 
-	<img src="/README/演示1.gif" width="500">
+	<img src="/README/演示1.gif" width="350">
 	
 + **演示视频2：**
 
-	<img src="/README/演示2.gif" width="500">
+	<img src="/README/演示2.gif" width="350">
 	
 + **apk 下载**
 
