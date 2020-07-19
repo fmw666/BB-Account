@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">BB 账本</string>
+    <string name="detail">明细</string>
+    <string name="chart">表格</string>
+    <string name="user">用户</string>
+    <string name="phone_number">手机号</string>
+    <string name="phone_number_hint">请输入手机号</string>
+    <string name="psw">密码</string>
+    <string name="psw_confirm">确认密码</string>
+    <string name="psw_hint">请输入密码</string>
+    <string name="login">登录</string>
+    <string name="other_login_method">其他登录方式</string>
+    <string name="wx_login">微信登录</string>
+    <string name="qq_login">QQ登录</string>
+
+
+    <string name="year">年</string>
+    <string name="month">月</string>
+    <string name="confirm">确定</string>
+    <string name="register">没有账号？立即注册</string>
+    <string name="register_btn">注册</string>
+    <string name="host">免登录模式</string>
+    <string name="phone_code">获取验证码</string>
+    <string name="input_phone_code">已为您的手机发送短信\n请输入收到的 6 位验证码：</string>
+    <string name="six_code">123456</string>
+    <string name="register_welcome">🎉 欢迎注册 🎉</string>
+    <string name="login_btn">已有账号？马上登录</string>
+    <string name="user_center">用户中心</string>
+    <string name="mine_tips">🎈 登录后可将本地记录备份到云端</string>
+    <string name="income_or_outcome">支出 / 收入</string>
+    <string name="money">金额</string>
+    <string name="type">分类</string>
+    <string name="note">备注</string>
+    <string name="time">时间</string>
+    <string name="star">社交</string>
+    <string name="star_tips">交友模式，敬请期待~</string>
+    <string name="income">收入</string>
+    <string name="outcome">支出</string>
+    <string name="return_back">返回</string>
+    <string name="user_info">账户信息</string>
+    <string name="settings_center">设置中心</string>
+    <string name="logout">注销</string>
+    <string name="add_bills">📌 添加账本记录</string>
+    <string name="money_hint">eg: 99.99</string>
+    <string name="note_hint">添加备注</string>
+    <string name="tv_choose_month">选择月份</string>
+    <string name="pie_chart">饼状图</string>
+    <string name="chart_show">图表展示</string>
+    <string name="bar_chart">柱状图</string>
+    <string name="current_time">当前日期</string>
+</resources>

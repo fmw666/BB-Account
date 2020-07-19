@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorApp"
+    tools:context="cn.edu.sicnu.account.fragment.MineFragment">
+
+    <TextView
+        android:id="@+id/tv_mine_login"
+        android:layout_width="0dp"
+        android:layout_height="42dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="300dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:text="@string/login"
+        android:gravity="center"
+        android:background="@drawable/btn_border_white_selector"
+        />
+
+    <TextView
+        android:id="@+id/tv_mine_register"
+        android:layout_width="0dp"
+        android:layout_height="42dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_mine_login"
+        android:layout_marginTop="30dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:text="@string/register_btn"
+        android:gravity="center"
+        android:background="@drawable/btn_border_white_selector"
+        />
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="42dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_mine_register"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:text="@string/mine_tips"
+        android:gravity="center"
+        />
+
+</android.support.constraint.ConstraintLayout>

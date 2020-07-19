@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorApp">#ffe153</color>
+    <color name="colorBtnYellowPrs">#ffd308</color>
+    <color name="colorBtnYellow">#ffe153</color>
+    <color name="colorBtnWhitePrs">#ffffe0</color>
+    <color name="colorBtnWhite">#ffffff</color>
+    <color name="black">#000000</color>
+    <!--分割线的颜色-->
+    <color name="divider_color">#efefef</color>
+    <color name="green">#9FDD56</color>
+    <color name="red">#FF5722</color>
+</resources>
